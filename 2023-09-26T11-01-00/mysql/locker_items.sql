@@ -1,0 +1,3 @@
+INSERT INTO locker_items VALUES
+16, 'weapon', 'WEAPON_FLASHLIGHT', 100
+16, 'weapon', 'WEAPON_PETROLCAN', 1883;
