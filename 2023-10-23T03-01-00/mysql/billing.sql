@@ -1,0 +1,2 @@
+INSERT INTO billing VALUES
+;
